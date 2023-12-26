@@ -1,1 +1,5 @@
 *.ioc
+.ccls-cache
+build
+.mxproject
+compile_commands.json
